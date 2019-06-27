@@ -1,0 +1,2 @@
+# Aloneybox
+Thi isastoragespace.
